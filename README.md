@@ -245,3 +245,4 @@ All images are available at https://hub.docker.com/r/lyt1123/open_im_server
 ## License
 
 Open-IM-Server is under the Apache 2.0 license. See the [LICENSE](https://github.com/OpenIMSDK/Open-IM-Server/blob/main/LICENSE) file for details.
+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
